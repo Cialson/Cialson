@@ -1,23 +1,30 @@
 # Nicolas Brault
 
-**Élève ingénieur – Agents IA & Cybersécurité**
+**Engineering Student – AI Agents & Cybersecurity**
 
-Élève ingénieur en 3ᵉ année à IMT Atlantique (cybersécurité, deep learning, systèmes distribués). Je recherche un stage de fin d'études de 6 mois à partir d'avril 2027 en Machine Learning, agents IA / LLM et cybersécurité.
+Third-year engineering student at IMT Atlantique (cybersecurity, deep learning, distributed systems). I am looking for a 6-month final-year internship starting in April 2027 in Machine Learning, AI / LLM agents and cybersecurity.
 
-🌐 **Portfolio : [cialson.github.io](https://cialson.github.io)**
+🌐 **Portfolio: [cialson.github.io](https://cialson.github.io)** ([version française](https://cialson.github.io/fr/))
 
-## Projets phares
+## Featured projects
 
-- **Détection d'objets connectés de surveillance – CNIL (2025-2026)** : identification d'appareils IoT de surveillance par apprentissage automatique à partir du trafic réseau (Random Forest, CNN, LSTM). 93,3 % d'accuracy et 91,4 % de macro-F1 sur des appareils inconnus. Application mobile connectée à un Raspberry Pi pour analyser les réseaux Wi-Fi, Bluetooth et BLE.
-- **Plateforme multi-agent pour l'apprentissage (en cours)** : refonte d'une plateforme pédagogique GraphRAG en agents autonomes coopératifs via MCP et A2A (LangGraph, Neo4j, Mistral 7B / Ollama).
-- **Automatisation agentique avec n8n et Telegram (en cours)** : assistant personnel piloté en langage naturel (agenda, synthèse de l'actualité, veille), avec agents Gemini et LLM local via Ollama.
-- **[AI Prey-Predator](https://github.com/Cialson/AI-Prey-Predator)** : neuroévolution proies / prédateurs avec des réseaux de neurones PyTorch, sans rétropropagation.
+- **Detecting surveillance IoT devices – CNIL (2025-2026)**: machine-learning identification of surveillance IoT devices from their network traffic (Random Forest, CNN, LSTM). 93.3% accuracy and 91.4% macro-F1 on devices unseen by the model. Mobile app connected to a Raspberry Pi to analyse Wi-Fi, Bluetooth and BLE networks.
+- **Multi-agent learning platform (in progress)**: redesigning a GraphRAG-based educational platform into autonomous agents that cooperate via MCP and A2A (LangGraph, Neo4j, Mistral 7B / Ollama).
+- **Agentic automation with n8n and Telegram (in progress)**: personal assistant controlled in natural language (calendar, news digest, internship watch), using Gemini agents and a local LLM via Ollama.
+- **Neural networks learning to play Snake and Chrome Dino (2021)**: neuroevolution training in Python / Pygame, where whole populations play each generation and the best individuals pass their genes on.
 
-## Compétences
+## Other projects
 
-**IA / ML** : PyTorch, scikit-learn, RAG, LangGraph, MCP / A2A
-**Langages** : Python, Java, Kotlin, Go, JavaScript, Elixir
-**Outils** : Git, Linux, Docker, FastAPI
+- [AI Prey-Predator](https://github.com/Cialson/AI-Prey-Predator): prey / predator neuroevolution with PyTorch neural networks, no backpropagation.
+- [Genetic AI Evolution](https://github.com/Cialson/Genetic-AI-Evolution): artificial evolution simulation with genomes and neural-network brains.
+- [Chess](https://github.com/Cialson/Chess-Game-by-Cialson) and [2048](https://github.com/Cialson/2048-Game-by-Cialson): my first Python / Pygame games (2020).
+- [PCSI 3 class website](https://github.com/Cialson/Site-Web-Piston-3): showcase website for my preparatory class.
+
+## Skills
+
+**AI / ML**: PyTorch, scikit-learn, RAG, LangGraph, MCP / A2A
+**Languages**: Python, Java, Kotlin, Go, JavaScript, Elixir
+**Tools**: Git, Linux, Docker, FastAPI
 
 ## Contact
 
